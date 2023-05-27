@@ -14,7 +14,7 @@ This project performs sentiment analysis on text using the Natural Language Tool
 ### Prerequisites
 
 - Python 3.x
-- NLTK library
+- `nltk` library
 
 ### Installation
 
