@@ -22,15 +22,9 @@ This project performs sentiment analysis on text using the Natural Language Tool
 
 [https://github.com/lorenzilarissa/sentiment-analysis.git](https://github.com/lorenzilarissa/nltk-sentiment-analysis/)
 
-markdown
-Copy code
-
 2. Install the required dependencies:
 
 pip install nltk
-
-markdown
-Copy code
 
 3. Run the notebook:
 
