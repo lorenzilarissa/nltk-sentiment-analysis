@@ -24,7 +24,7 @@ This project performs sentiment analysis on text using the Natural Language Tool
 
 2. Install the required dependencies:
 
-pip install nltk
+`pip install nltk`
 
 3. Run the notebook:
 
