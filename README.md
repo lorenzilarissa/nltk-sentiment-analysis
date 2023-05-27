@@ -20,7 +20,7 @@ This project performs sentiment analysis on text using the Natural Language Tool
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/lorenzilarissa/sentiment-analysis.git
 
 markdown
 Copy code
